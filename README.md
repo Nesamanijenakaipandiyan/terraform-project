@@ -44,12 +44,6 @@ S3 bucket (for storing static files/images).
 
 ***Steps to Deploy****
 
-Clone the Repository
-
-git clone https://github.com/Dhivya-Dharshini191/terraform-project.git
-cd <your-repo>
-
-
 1.Initialize Terraform
 
   terraform init
